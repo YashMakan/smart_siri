@@ -1,0 +1,47 @@
+PODS:
+  - Flutter (1.0.0)
+  - integration_test (0.0.1):
+    - Flutter
+  - path_provider_foundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - permission_handler_apple (9.3.0):
+    - Flutter
+  - simple_audio (1.6.6):
+    - Flutter
+  - smart_siri (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - integration_test (from `.symlinks/plugins/integration_test/ios`)
+  - path_provider_foundation (from `.symlinks/plugins/path_provider_foundation/darwin`)
+  - permission_handler_apple (from `.symlinks/plugins/permission_handler_apple/ios`)
+  - simple_audio (from `.symlinks/plugins/simple_audio/ios`)
+  - smart_siri (from `.symlinks/plugins/smart_siri/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  integration_test:
+    :path: ".symlinks/plugins/integration_test/ios"
+  path_provider_foundation:
+    :path: ".symlinks/plugins/path_provider_foundation/darwin"
+  permission_handler_apple:
+    :path: ".symlinks/plugins/permission_handler_apple/ios"
+  simple_audio:
+    :path: ".symlinks/plugins/simple_audio/ios"
+  smart_siri:
+    :path: ".symlinks/plugins/smart_siri/ios"
+
+SPEC CHECKSUMS:
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  integration_test: 13825b8a9334a850581300559b8839134b124670
+  path_provider_foundation: 2b6b4c569c0fb62ec74538f866245ac84301af46
+  permission_handler_apple: 9878588469a2b0d0fc1e048d9f43605f92e6cec2
+  simple_audio: 9b1937d5ddc6af38953d6f377dd5678b471e4d05
+  smart_siri: 815e4731d21928c02028348deca9ae19417beb67
+
+PODFILE CHECKSUM: d9ba4ec3ce913cb3874a10f6a7c84404cf83ef1d
+
+COCOAPODS: 1.13.0
