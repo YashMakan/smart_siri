@@ -15,9 +15,7 @@ Smart Siri is a Flutter-based project that enables developers to create and inte
 
 ## Demo
 
-Watch the YouTube demo showcasing Smart Siri, including the "Hey Sam" agent with a Sam Altman-inspired voice clone:
-
-[Smart Siri Demo on YouTube](https://www.youtube.com/watch?v=G-GVmEaySdw)
+ <a href="https://www.youtube.com/watch?v=G-GVmEaySdw"> <img src="https://img.youtube.com/vi/G-GVmEaySdw/0.jpg" width="400"/></a>
 
 ## Getting Started
 
